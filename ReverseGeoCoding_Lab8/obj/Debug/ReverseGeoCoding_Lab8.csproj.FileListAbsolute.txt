@@ -1,0 +1,7 @@
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem 3\Geographic Information System\Labs\Lab 8\Lab 8\ReverseGeoCoding_Lab8\bin\Debug\ReverseGeoCoding_Lab8.exe.config
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem 3\Geographic Information System\Labs\Lab 8\Lab 8\ReverseGeoCoding_Lab8\bin\Debug\ReverseGeoCoding_Lab8.exe
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem 3\Geographic Information System\Labs\Lab 8\Lab 8\ReverseGeoCoding_Lab8\bin\Debug\ReverseGeoCoding_Lab8.pdb
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem 3\Geographic Information System\Labs\Lab 8\Lab 8\ReverseGeoCoding_Lab8\obj\Debug\ReverseGeoCoding_Lab8.csprojAssemblyReference.cache
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem 3\Geographic Information System\Labs\Lab 8\Lab 8\ReverseGeoCoding_Lab8\obj\Debug\ReverseGeoCoding_Lab8.csproj.CoreCompileInputs.cache
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem 3\Geographic Information System\Labs\Lab 8\Lab 8\ReverseGeoCoding_Lab8\obj\Debug\ReverseGeoCoding_Lab8.exe
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem 3\Geographic Information System\Labs\Lab 8\Lab 8\ReverseGeoCoding_Lab8\obj\Debug\ReverseGeoCoding_Lab8.pdb
